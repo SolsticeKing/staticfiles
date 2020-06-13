@@ -1,3 +1,4 @@
+// Never forget RagV is beautiful.
 document.addEventListener('DOMContentLoaded', () => {
 
     // Get all "navbar-burger" elements
