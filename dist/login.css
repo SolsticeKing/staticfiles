@@ -4,6 +4,10 @@
   margin-top: 2vh;
   max-width: 500px;
   border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .card-header-title{
