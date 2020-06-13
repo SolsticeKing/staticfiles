@@ -1,0 +1,15 @@
+#login-card{
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-top: 2vh;
+  max-width: 500px;
+  border-radius: 10px;
+}
+
+.card-header-title{
+  margin-bottom: 2vh;
+
+}
+#columns-wrapper{
+  margin-top: 2vh;
+}
