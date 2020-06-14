@@ -1,13 +1,9 @@
 #login-card{
   margin: 0 auto; /* Added */
   float: none; /* Added */
-  margin-top: 2vh;
+  margin-top: 4vh;
   max-width: 500px;
-  border-radius: 10px;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+  border-radius: 5px;
 }
 
 .card-header-title{
@@ -16,4 +12,7 @@
 }
 #columns-wrapper{
   margin-top: 2vh;
+}
+.label{
+  margin-top: 20px
 }
