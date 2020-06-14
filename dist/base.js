@@ -1,8 +1,3 @@
-var el = document.getElementById('overlayBtn');
-if (el) {
-  el.addEventListener('click', swapper, false);
-}
-
 document.addEventListener('DOMContentLoaded', () => {
 
   // Get all "navbar-burger" elements
