@@ -1,3 +1,12 @@
 #catalog_card{
-    height: 150px;
+    height: 500px;
+}
+#catalog_header{
+    height: 75px;
+}
+#catalog_content{
+    height:350px;
+}
+#catalog_footer{
+    height: 75px;
 }
